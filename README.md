@@ -6,4 +6,4 @@ A simple pricing panel exercise for HTML and CSS learning.
 - panel.css - Styling and layout
 
 ## View:
-Open index.html in any browser
+Open panel.html in any browser
